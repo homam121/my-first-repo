@@ -1,3 +1,3 @@
 # my-first-repo
-From branch Feature1 i created string
+From brn Feature2 now i created string with conflict try
 lollabcd☺☺☺
