@@ -1,2 +1,3 @@
 # my-first-repo
-My first repository for practicing Version Control
+From branch Feature1 i created string
+lollabcd☺☺☺
